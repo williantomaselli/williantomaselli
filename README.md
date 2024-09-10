@@ -5,9 +5,10 @@ Atualmente, estou focado em estudar as seguintes tecnologias:
 - 📚 HTML
 - 📚 CSS
 - 📚 JavaScript
+- 📚 SQL
 
 ## Interesses
-Estou procurando projetos simples e diretos para ganhar experiência na área. Se você tem algo interessante, ficarei feliz em contribuir!
+Estou procurando projetos simples e diretos para ganhar experiência na área web Frontend. Se você tem algo interessante, ficarei feliz em contribuir!
 
 ## Contato
 Você pode entrar em contato comigo através do meu e-mail: [williantomaselli@gmail.com](mailto:williantomaselli@gmail.com)
