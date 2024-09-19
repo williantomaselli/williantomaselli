@@ -15,8 +15,6 @@ Atualmente, estou focado em estudar as seguintes tecnologias:
 - 📚 PHP
 - 📚 React
 
-https://github-readme-stats.vercel.app/api?username=willdev16
-
 ## Interesses
 Estou procurando projetos simples e diretos para ganhar experiência na área web Frontend. Se você tem algo interessante, ficarei feliz em contribuir!
 
