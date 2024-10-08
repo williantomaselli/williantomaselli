@@ -9,11 +9,13 @@ Atualmente, estou focado em estudar as seguintes tecnologias:
 - 📚 CSS
 - 📚 JavaScript
 - 📚 SQL
+- 📚 React
 
 ## Pretendo aprender:
 - 📚 Python
 - 📚 PHP
-- 📚 React
+- 📚 Bootstrap
+
 
 ## Interesses
 Estou procurando projetos simples e diretos para ganhar experiência na área web Frontend. Se você tem algo interessante, ficarei feliz em contribuir!
