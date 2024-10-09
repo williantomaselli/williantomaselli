@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willdev16&label=Profile%20views&color=0e75b6&style=flat" alt="willdev16" /> </p>
 
-- 🌱 Atualmente estou estudando **Desenvolvimento de sistemas, React, Bootstrap e Design gráfico,**
+- 🌱 Atualmente estou estudando **Desenvolvimento de sistemas, React, Bootstrap e Design gráfico.**
 
 - 👨‍💻 Meu portfólio: [https://williantomaselli.site/](https://williantomaselli.site/)
 
