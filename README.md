@@ -1,8 +1,8 @@
-<h2 align="left">Olá, meu nome é Willian Vitor Correa Tomaselli, e eu sou um desenvolvedor web Frontend!✨</h2>
+<h2 align="left">Olá, meu nome é Willian Vitor Correa Tomaselli, e eu sou um desenvolvedor Frontend e desenvolvedor de jogos!✨</h2>
 
 ###
 
-<p align="left">👨‍💻 Programador front-end em constante aprendizado, apaixonado por desenvolver soluções criativas e funcionais para a web. Sempre buscando melhorar minhas habilidades, explorando novas tecnologias e aberto a novos desafios 🚀. Também sou interessado em design e na criação de jogos 🎮.</p>
+<p align="left">👨‍💻 Programador em constante aprendizado, apaixonado por desenvolver soluções criativas e funcionais. Sempre buscando melhorar minhas habilidades, explorando novas tecnologias e aberto a novos desafios 🚀. Também sou interessado em design e na criação de jogos 🎮.</p>
 
 ###
 
@@ -35,5 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
 </div>
 
