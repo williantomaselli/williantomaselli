@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome é Willian Vitor Correa Tomaselli, e eu sou um desenvolvedor Frontend e desenvolvedor de jogos!✨</h2>
+<h2 align="left">Olá, meu nome é Willian Vitor Correa Tomaselli, e eu sou um desenvolvedor Frontend e desenvolvedor Unity!✨</h2>
 
 ###
 
